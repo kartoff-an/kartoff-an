@@ -6,6 +6,10 @@
 🎓 Computer Engineering Student  
 🎵 Obsessed with music | 🔬 Math analysis & physics explorations
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rean-glenn-r-757929314/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kartoff.an)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reanglenn.roquero@gmail.com)
+
 ## Tech Stack
 
 ### Languages
