@@ -1,10 +1,12 @@
-# Hi there, I'm Rean Glenn Roquero 👋
+# Hi there, I'm Rean Glenn Roquero
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Software+%2B+Hardware+Explorer;Physics+Simulation+Enthusiast)](https://git.io/typing-svg)
 
-📍 Bohol, Philippines  
-🎓 Computer Engineering Student  
-🎵 Obsessed with music | 🔬 Math analysis & physics explorations
+![](https://komarev.com/ghpvc/?username=kartoff-an)
+
+Bohol, Philippines  
+Computer Engineering Student  
+Obsessed with music | 🔬 Math analysis & physics explorations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rean-glenn-r-757929314/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kartoff.an)
